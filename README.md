@@ -1,2 +1,2 @@
 # Disease Predictor
- It's an application on which you can get the list of Skin Doctor with their details near you by uploading image. Skin disease is identified by our ML model on the basis of the uploaded image. 
+ It's an application on which you can get the list of Skin Doctor with their details near you by uploading image. Skin disease is identified by our Machine Learning model on the basis of the uploaded image. Application is developed using flutter as a tech stack used for cross platform development. With the help of Google Map Api integrated, obtained near by doctor's location. Machine learning model used for prediction by analyzing image.
